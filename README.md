@@ -2,10 +2,10 @@
 Welcome to my Machine Learning Portfolio! This repository showcases a collection of machine learning projects in various domains, demonstrating my skills and expertise as a data scientist and machine learning engineer. Each project provides step-by-step instructions, code, and visualizations to showcase the data analysis and modeling techniques employed.  
 ## Table of Contents
 
-- [Project 1: Student performance prediction](https://github.com/tushar2704/Sales-for-Retail-and-Food-Services)
+- [Project 1: Student performance prediction]
 
 
-  ## [Project 1: Student performance prediction](https://github.com/tushar2704/Sales-for-Retail-and-Food-Services)
+  ## [Project 1: Student performance prediction]
 
 In this project, I analyzed and visualized the sales data for Retail and Food Services in the U.S.A. The data is sourced from the U.S. government website and has been processed using SQL to create a database for easy management and analysis. The main focus of this project is to explore the sales data based on NAICS (North American Industry Classification System) code and category.
 
