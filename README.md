@@ -24,4 +24,4 @@ Network economics (ruin, contract, contest, auction, matching and game theories)
 I received the M.S. degree in electrical engineering with a specialization in telecommunication and radio networks from the National University of Science and Technology, Pakistan, in 2015, and the Ph.D. degree in Computer Science and Engineering with major in 5G and beyond radio networks, from Kyung Hee University, South Korea, in 2021. I have worked as an IT Research Analyst in a software house before that. As a part-time fun activity, I have worked as a content writer, latex developer, and problem solver of operation research (optimization theory) on freelancers.com, academic writer on writersbay, and online tutor to college students for Maths and Physics.
 
 ## Author  
-- <b>[LinkedIn](https://www.linkedin.com/in/tusharaggarwalinseec/)</b>
+- <b>[LinkedIn](https://www.linkedin.com/in/aunas-manzoor-91655531/)</b>
